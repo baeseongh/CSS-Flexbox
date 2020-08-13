@@ -1,5 +1,5 @@
 # CSS_Flexbox
-Likelion CSS Session - Flexbox
+CSS Flexbox Likelion Session 실습코드
 
 ## Flexbox
 flexbox를 사용하여 div박스의 가로 세로 자동정렬을 더욱 손쉽게 해봅시다.
