@@ -1,7 +1,19 @@
 .parent {
   width: 600px;
+  height: 600px;
   margin: 0 auto;
   background-color: #ecedef;
+  /* Flex */
+  /* display: flex; */
+
+  /* 방향 */
+  /* flex-direction: row; */
+
+  /* 가로 */
+  /* justify-items: center; */
+
+  /* 세로 */
+  /* align-items: center; */
 }
 
 .child {
@@ -11,6 +23,15 @@
   text-align: center;
 }
 
-.red{ background-color: #e74c3c; }
-.yellow{ background-color: #f1c40f; }
-.blue{ background-color: #0066ff; }
+.red {
+  background-color: #e74c3c;
+  /* flex: 1; */
+}
+.yellow {
+  background-color: #f1c40f;
+  /* flex: 2; */
+}
+.blue {
+  background-color: #0066ff;
+  /* flex: 3; */
+}
